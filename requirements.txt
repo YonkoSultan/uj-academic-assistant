@@ -18,3 +18,4 @@ torchsummary==1.5.1
 torchtune==0.6.1
 torchvision==0.23.0+cu126
 transformers==4.57.1
+python-dotenv==1.2.1
